@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Package",
+        "repositoryURL": "/Users/stephen.ciauri/Desktop/Package",
+        "state": {
+          "branch": "master",
+          "revision": "9836221efb9017649420bb49d54bc7210c64be54",
+          "version": null
+        }
+      }
+    ]
+  },
+  "version": 1
+}
